@@ -1,0 +1,6 @@
+[submodule "hap-ibd"]
+	path = hap-ibd
+	url = https://github.com/browning-lab/hap-ibd.git
+[submodule "P-smoother"]
+	path = P-smoother
+	url = https://github.com/ZhiGroup/P-smoother.git
